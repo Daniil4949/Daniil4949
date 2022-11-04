@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniil Kimstach</h1>
 <h3 align="center">Backend developer</h3>
 
-- 👨‍💻 All of my projects are available [here](hhttps://mysitedaniilkimstach.herokuapp.com/)
+- 👨‍💻 All of my projects are available [here](https://mysitedaniilkimstach.herokuapp.com/)
 
 - 📫 How to reach me **daniilkimstachp@gmail.com**
 
