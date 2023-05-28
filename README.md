@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniil Kimstach</h1>
 <h3 align="center">Backend developer</h3>
 
-- 👨‍💻 All of my projects are available [here](https://daniilkimstach.up.railway.app/)
 
-- 📫 How to reach me **daniilkimstachp@gmail.com**
+
 ### Views 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Daniil4949" alt="Daniil4949"/></p> 
 <!--radical, merko, tokyonight-->
